@@ -15,6 +15,7 @@ class App extends Component {
         <Account name='Savings'/>
         <div className="clear"></div>
       </div>
+      
     );
   }
 }
